@@ -2,5 +2,10 @@
 **/*.rs.bk
 Cargo.lock
 bin/
-pkg/
+/pkg
 wasm-pack.log
+/www/node-modules/
+/.idea
+/.travis.yml
+**/package-lock.json
+
